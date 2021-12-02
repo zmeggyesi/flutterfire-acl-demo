@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.databinding:viewbinding:7.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f4cc98c5631a778523ead21314385a3e/transformed/viewbinding-7.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f4cc98c5631a778523ead21314385a3e/transformed/viewbinding-7.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f4cc98c5631a778523ead21314385a3e/transformed/viewbinding-7.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32d6280dbd2341f21785580ce362ee3b/transformed/viewbinding-7.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32d6280dbd2341f21785580ce362ee3b/transformed/viewbinding-7.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32d6280dbd2341f21785580ce362ee3b/transformed/viewbinding-7.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
