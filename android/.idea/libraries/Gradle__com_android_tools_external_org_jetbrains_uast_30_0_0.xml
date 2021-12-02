@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.tools.external.org-jetbrains:uast:30.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.org-jetbrains/uast/30.0.0/3b89e953b108ea42c5ad46529e837f198207f290/uast-30.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.org-jetbrains/uast/30.0.0/19724d53aaf2beece2e5c9844bb505872ce2c376/uast-30.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

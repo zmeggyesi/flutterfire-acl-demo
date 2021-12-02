@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\xml_remote_config_defaults.xml.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\xml\\remote_config_defaults.xml"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_firebase_lockup_400.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\drawable-hdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_firebase_lockup_400.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_firebase_lockup_400.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\drawable-xxhdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\quickstart-android\\config\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_firebase_lockup_400.png.flat",
+        "source": "D:\\Projects\\quickstart-android\\config\\app\\src\\main\\res\\drawable-mdpi\\firebase_lockup_400.png"
+    }
+]

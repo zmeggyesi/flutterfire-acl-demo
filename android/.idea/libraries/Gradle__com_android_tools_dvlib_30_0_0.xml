@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.tools:dvlib:30.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/30.0.0/8032238a5e1563ca3bd0767c8abfe8a2f70a770d/dvlib-30.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/30.0.0/3a53f40e00bd3f07e89a327a7a8f641b340d10dc/dvlib-30.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

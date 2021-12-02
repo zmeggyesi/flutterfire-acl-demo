@@ -1,0 +1,8 @@
+com/google/samples/quickstart/config/java/MainActivity.java
+ com.google.samples.quickstart.config.java.MainActivity
+ com.google.samples.quickstart.config.java.MainActivity$1
+ com.google.samples.quickstart.config.java.MainActivity$2
+com/google/samples/quickstart/config/databinding/ActivityMainBinding.java
+ com.google.samples.quickstart.config.databinding.ActivityMainBinding
+com/google/samples/quickstart/config/BuildConfig.java
+ com.google.samples.quickstart.config.BuildConfig
